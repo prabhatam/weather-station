@@ -2,7 +2,7 @@ const char MAIN_page[] PROGMEM = R"=====(
 <!DOCTYPE html>
 <html>
 <head>
-<title>www.how2electronics.com</title>
+<title>DC Project</title>
 </head>
 <style>
 @import url(https://fonts.googleapis.com/css?family=Montserrat);
